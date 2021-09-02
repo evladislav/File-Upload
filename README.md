@@ -32,7 +32,8 @@ Implement File upload function using node Express
 		"_id":{"$oid":"6126d7a59e440f2fc83770b4"},
 		"type":"ArtWork Type 1",
 		"name":"Artwork Name 21",
-		"portfolioURL":"https://stackoverflow.com/questions/10265798/determine-project-root-from-a-running-node-js-application","about":"Artwork author is xxx",
+		"portfolioURL":"https://stackoverflow.com/questions/10265798/determine-project-root-from-a-running-node-js-application",
+		"about":"Artwork author is xxx",
 		"royalties":89.03,
 		"artworkFiles":"E:/03_JS/REACT/spacegrim-backend/public/images/artwork/-VMswPFAe2i-my_photo.jpg",
 		"__v":0
